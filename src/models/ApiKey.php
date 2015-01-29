@@ -4,7 +4,7 @@ namespace Chrisbjr\ApiGuard;
 /**
  * Class ApiKey
  */
-class ApiKey extends \Eloquent
+class ApiKey extends \Moloquent
 {
     protected $table = 'api_keys';
 

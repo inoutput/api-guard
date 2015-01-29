@@ -3,7 +3,7 @@ namespace Chrisbjr\ApiGuard;
 /**
  * Class ApiKey
  */
-class ApiLog extends \Eloquent
+class ApiLog extends \Moloquent
 {
     protected $table = 'api_logs';
 
